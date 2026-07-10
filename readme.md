@@ -1,4 +1,4 @@
-## Logits DeConfusion with CLIP for Few-Shot Learning
+## Quantum-Aware Learning Adapter for Few-Shot Image Classifier
 
 The code of "Quantum-Aware Learning Adapter for Few-Shot Image Classifier"
 
@@ -40,7 +40,6 @@ _MODELS = {
 ## Train & Test
 
 ```
-qqg 
 python qala_train.py
 ```
 
